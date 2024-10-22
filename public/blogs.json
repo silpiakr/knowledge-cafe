@@ -1,49 +1,50 @@
 [
     {
       "id": "001",
-      "cover": "https://i.ibb.co.com/tczYv0K/1.jpg",
+      "cover": "https://i.ibb.co.com/34bkxD2/2.png",
+      "title": "Unlocking the Future of AI",
       "author": "Sarah Novak",
-      "author_img": "https://example.com/images/sarah_novak.png",
+      "author_img": "https://i.ibb.co.com/vmvwDQc/girl2.jpg",
       "posted_date": "2024-05-14",
       "reading_time": "6 min",
       "hashtags": ["#AI", "#TechTrends", "#Future"]
     },
     {
       "id": "002",
-      "cover": "https://i.ibb.co.com/34bkxD2/2.png",
+      "cover": "https://i.ibb.co.com/g7N867S/3925184.jpg",
       "title": "Top 10 Travel Destinations for 2024",
       "author": "John Patterson",
-      "author_img": "https://example.com/images/john_patterson.png",
+      "author_img": "https://i.ibb.co.com/6tmH2py/boy1.png",
       "posted_date": "2024-03-28",
       "reading_time": "8 min",
       "hashtags": ["#Travel", "#Adventure", "#TopDestinations"]
     },
     {
       "id": "003",
-      "cover": "https://i.ibb.co.com/D1qnM7f/3.png",
+      "cover": "https://i.ibb.co.com/JKS0cZ6/brooke-lark-j-UPOXXRNdc-A-unsplash.jpg",
       "title": "Healthy Eating on a Budget",
       "author": "Emily Rivera",
-      "author_img": "https://example.com/images/emily_rivera.png",
+      "author_img": "https://i.ibb.co.com/4wb0LQT/girl1.jpg",
       "posted_date": "2024-04-10",
       "reading_time": "5 min",
       "hashtags": ["#Health", "#Wellness", "#BudgetFriendly"]
     },
     {
       "id": "004",
-      "cover": "https://i.ibb.co.com/NWdNkSw/4.jpg",
+      "cover": "https://i.ibb.co.com/1fpDvbC/tabea-schimpf-O7-Wzqme-Yoqc-unsplash.jpg",
       "title": "The Rise of Electric Vehicles",
       "author": "Marcus Lee",
-      "author_img": "https://example.com/images/marcus_lee.png",
+      "author_img": "https://i.ibb.co.com/hDz7m0Y/boy2.jpg",
       "posted_date": "2024-06-22",
       "reading_time": "7 min",
       "hashtags": ["#EV", "#Sustainability", "#GreenTech"]
     },
     {
       "id": "005",
-      "cover": "https://i.ibb.co.com/g7N867S/3925184.jpg",
+      "cover": "https://i.ibb.co.com/k3HzKBV/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
       "title": "Mastering the Art of Minimalism",
       "author": "Jessica Hall",
-      "author_img": "https://example.com/images/jessica_hall.png",
+      "author_img": "https://i.ibb.co.com/gRWtcpF/images-1.jpg",
       "posted_date": "2024-01-15",
       "reading_time": "4 min",
       "hashtags": ["#Minimalism", "#Lifestyle", "#Simplicity"]
